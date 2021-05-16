@@ -3,7 +3,6 @@ For further help please check the repo at https://github.com/peterhanania/modmai
 */
 
 const {
-  token,
   prefix,
   mongooseString,
   guild,
@@ -423,4 +422,4 @@ async function sendTranscriptAndDelete(message, channel) {
 }
 
 //login
-client.login(token);
+client.login(process.env.BOT_TOKEN);
