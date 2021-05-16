@@ -1,5 +1,4 @@
 {
-    "token": "TOKEN", 
     "prefix": "k!", 
     "mongooseString": "mongodb+srv://FeeshBoi:S0d4P0pS@modmail.noxsl.mongodb.net/test", 
     "guild": "679956490362159115",
